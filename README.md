@@ -4,6 +4,8 @@
 Data použity od HZS, ČHMÚ a ČSÚ. Report vytvořen z údajú v letech 2013 - 2022 
 a porovnáván s počasím v letech 1991 - 2010. 
 
+## Popis stran 
+
 ### Celá ČR  
 Můžeme si fitrovat období dle roku a měsíce. V hodním grafu je porovnán vývoj počet požárů 
 ve volném prostředí s vývojem průměrné teploty ve vybraném období a dále je přidáno porovnání 
